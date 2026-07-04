@@ -12,7 +12,8 @@ This repository contains SQL concepts and interview-oriented queries that are co
 - Subqueries
 - Views
 - Constraints
-- Practice Questions
+- Function
+- Interview Questions
 
 ## Database Used
 
